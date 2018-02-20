@@ -1,0 +1,7 @@
+C:\Users\Učenik\Desktop\ŠebeljaNinaList\ŠebeljaNinaList\bin\Debug\ŠebeljaNinaList.exe.config
+C:\Users\Učenik\Desktop\ŠebeljaNinaList\ŠebeljaNinaList\bin\Debug\ŠebeljaNinaList.exe
+C:\Users\Učenik\Desktop\ŠebeljaNinaList\ŠebeljaNinaList\bin\Debug\ŠebeljaNinaList.pdb
+C:\Users\Učenik\Desktop\ŠebeljaNinaList\ŠebeljaNinaList\obj\Debug\ŠebeljaNinaList.csprojResolveAssemblyReference.cache
+C:\Users\Učenik\Desktop\ŠebeljaNinaList\ŠebeljaNinaList\obj\Debug\ŠebeljaNinaList.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Desktop\ŠebeljaNinaList\ŠebeljaNinaList\obj\Debug\ŠebeljaNinaList.exe
+C:\Users\Učenik\Desktop\ŠebeljaNinaList\ŠebeljaNinaList\obj\Debug\ŠebeljaNinaList.pdb
